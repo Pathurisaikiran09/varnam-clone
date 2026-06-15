@@ -1,0 +1,42 @@
+.header{
+    text-align: center;
+    color:white;
+    background-color:#001f3f;
+    line-height: 50px;
+    top:0px;
+    left: 0px;
+    right: 0px;
+}
+.red-clr{
+    background: red;
+}
+.green-clr{
+    background-color: green;
+}
+.blue-clr{
+    background-color: blue;
+}
+.yellow-clr{
+    background-color: yellow;
+}
+.purple-clr{
+    background-color: purple;
+}
+.black-clr{
+    background-color: black;
+}
+.pink-clr{
+    background: pink;
+}
+.border-clr-navi{
+    border: 2px solid rebeccapurple;
+}
+.border-clr-red{
+   border: 2px solid red;
+} 
+.border-clr-blue{
+   border: 2px solid blue; 
+}
+.border-clr-black{
+   border: 2px solid black; 
+}
