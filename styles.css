@@ -10,7 +10,6 @@
     z-index: 100;
     overflow-y: auto;
 }
-
 /* Main content area with margin to accommodate fixed sidebar */
 .main-content{
     min-height: 100%;
