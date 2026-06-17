@@ -7,7 +7,7 @@ body{
     padding: 0;
 }
 div{
-      display: block;
+    display: block;
     unicode-bidi: isolate;
 }
 .row::after{
